@@ -1,3 +1,3 @@
 # SISS-Package-Executor
 
-WPF App to run SSIS Package
+WPF App to run SQL SSIS Package
